@@ -21,7 +21,7 @@ class ViewModel {
     
     //Dare
     private let dares = [
-        "For a guy or a girl, wash off your make up.",
+        "For a guy or girl, wash off your make up.",
         "Dance with no music for 1 minute.",
         "Try to drink a glass water while standing on your hands.",
         "Let the group pose you in an embarrassing position and take a picture.",
