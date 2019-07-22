@@ -14,7 +14,7 @@ class ViewModel {
     private let truths = [
         "What are you most self-conscious about?",
         "What would you do if you were the opposite sex for a month?",
-        "What is the most expensive thing you stole?",
+        "What is the cheapest thing you stole?",
         "What is the most childish thing you still do?",
         "Have you ever let someone take the blame for something you did?"
     ]
