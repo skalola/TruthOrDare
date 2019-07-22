@@ -12,7 +12,7 @@ class ViewModel {
     
     //Truth
     private let truths = [
-        "What are you most self conscious about?",
+        "What are you most self-conscious about?",
         "What would you do if you were for a month?",
         "What is the most expensive thing you have stolen?",
         "What is the most child thing you still do?",
