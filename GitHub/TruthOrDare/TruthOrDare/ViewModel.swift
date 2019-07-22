@@ -15,7 +15,7 @@ class ViewModel {
         "What are you most self-conscious about?",
         "What would you do if you were for a month?",
         "What is the most expensive thing you have stolen?",
-        "What is the most childish thing you still do?",
+        "What is the most childish thing you do?",
         "Have you ever let someone take the blame for something you did?"
     ]
     
